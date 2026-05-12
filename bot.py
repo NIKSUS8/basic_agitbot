@@ -14,13 +14,13 @@ PROVIDERS = [
     {
         "name": "GPT-OSS (OpenRouter)",
         "url": "https://openrouter.ai/api/v1/chat/completions",
-        "key": "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",
+        "key": "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",
         "model": "openai/gpt-oss-20b:free",
     },
     {
         "name": "Llama 70b (OpenRouter)",
         "url": "https://openrouter.ai/api/v1/chat/completions",
-        "key": "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",
+        "key": "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",
         "model": "meta-llama/llama-3.3-70b-instruct:free",
     },
     {
